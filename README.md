@@ -4,9 +4,7 @@
 
 A C++ console-based financial transaction processing project developed to compare **dynamic arrays and singly linked lists**, demonstrate sorting/searching techniques, and explore their performance on transaction data. The assignment uses a simulated banking/fraud-analysis scenario; it is **not a production fraud detection system**.
 
-> **My contribution — Fairouz Abdulrahman:** The original workload matrix assigns me **Heap Sort and JSON Format**. I contributed the heap-based sorting logic and JSON output functionality within the group's transaction analysis application. The remaining features described below represent the collaborative project, not work claimed as mine individually.
-
-![Original group workload matrix](team-workload-matrix.png)
+> **My contribution — Fairouz Abdulrahman:** My documented responsibilities were **Heap Sort and JSON formatting/export**. I contributed the heap-based sorting logic and JSON output functionality within the group's transaction analysis application. The remaining features described below represent the collaborative project, not work claimed as mine individually.
 
 ## Project overview
 
@@ -152,7 +150,7 @@ The assignment includes comparative measurements for sorting and searching acros
 **Project type:** Group assignment, 2025  
 **My documented responsibility:** Heap Sort and JSON Format
 
-The original workload matrix credits the other group members with container creation/parsing, Merge Sort/Insertion Sort, and the searching algorithms. Their work is acknowledged as part of the collaborative system.
+Other group members contributed container creation/parsing, Merge Sort/Insertion Sort, and the searching algorithms. Their work is acknowledged as part of the collaborative system.
 
 ---
 
